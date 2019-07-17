@@ -1,0 +1,28 @@
+{
+  "name": "sotetem-pm-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.3",
+    "nanoid": "^2.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-tableparser": "^1.0.1",
+    "lodash": "^4.17.14",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "Draegar",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "nodemon": "^1.18.3"
+  }
+}
