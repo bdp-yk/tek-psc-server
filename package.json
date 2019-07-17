@@ -1,9 +1,9 @@
 {
-  "name": "sotetem-pm-backend",
+  "name": "tek-ps-backend",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -18,11 +18,10 @@
     "request-promise": "^4.2.4"
   },
   "private": true,
-  "keywords": [],
-  "author": "Draegar",
-  "license": "ISC",
-  "devDependencies": {
-    "faker": "^4.1.0",
-    "nodemon": "^1.18.3"
-  }
+  "keywords": [
+    "Node",
+    "Scrapping"
+  ],
+  "author": "BigDaddyPanda",
+  "license": "ISC"
 }
